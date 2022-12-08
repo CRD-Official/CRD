@@ -1,6 +1,4 @@
-# Exploring Content Relationships For Distilling Efficient GANs (arXiv)
-
-This repository contains the pytorch codes and trained models described in the arXiv paper "[]()".
+# Exploring Content Relationships For Distilling Efficient GANs
 
 ## Overview
 
